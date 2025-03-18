@@ -2,9 +2,11 @@
 
 -Cursando Ciência da Computação na Universidade Federal de Uberlândia (UFU);
 
--Estagiária no Programa de Machine Learning da UOL Compass;
+-Fiz no Programa de Machine Learning da UOL Compass;
 
--Estudando C, Java, JavaScript, SQL, Python e AWS.
+-Trabalho como professora de programação, robótica e design gráfico.
+
+-Estudando C, Java, JavaScript, SQL, Python e AWS, Arduino, Illustrator
 
 
 
