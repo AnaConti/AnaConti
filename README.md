@@ -6,7 +6,7 @@
 
 -Trabalho como professora de programação, robótica e design gráfico.
 
--Estudando C, Java, JavaScript, SQL, Python e AWS, Arduino, Illustrator
+-Estudando JavaScript, HTML, C, Java, SQL, Python, AWS, Arduino.
 
 
 
